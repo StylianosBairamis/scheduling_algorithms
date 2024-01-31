@@ -7,4 +7,4 @@ Implement in C the following scheduling algorithms:
 - **SRTF** (Shortest Remaining Time First)
 - **Round Robin** (any quantum)
 
--See assignment pdf for more details.
+See assignment pdf for more details.

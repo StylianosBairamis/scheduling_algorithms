@@ -1,0 +1,6 @@
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/fcfs.dir
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/sjf.dir
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/srtf.dir
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rr.dir
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stelios/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

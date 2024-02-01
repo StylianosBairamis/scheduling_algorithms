@@ -1,6 +1,6 @@
 # Scheduling Algorithms Implementation in C
 
-Implement in C the following scheduling algorithms:
+Implemention in C of the following scheduling algorithms:
 
 - **FCFS** (First-Come, First-Served)
 - **SJF** (Shortest Job First) (non-preemptive)
